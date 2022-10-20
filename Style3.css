@@ -1,0 +1,19 @@
+html{
+    background-color: rgb(169, 112, 243);
+}
+.a { 
+    display: inline-block;
+    margin-left: 45px;
+    padding-top: 10px;
+    padding-bottom: auto;
+}
+.item {
+    display: inline-block;
+    margin-inline: center;
+    margin-top: 40px;
+}
+
+p {
+    color:  rgb(27, 7, 141); 
+    font-size: 20px;
+}
